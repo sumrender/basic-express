@@ -30,8 +30,8 @@ app.post("/", async (req, res) => {
   }
 
   let notification = {"data": "received no body"};
-  if(body) {
-    notification = await Item.create(body);
+  if(body && body.value && body.value.length > 0) {
+    notification = await Item.create(body.value[0]);
   }
 
   res.status(200).json(notification);
