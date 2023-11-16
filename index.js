@@ -6,6 +6,11 @@ app.use(express.json());
 
 app.use((req, res, next) => {
   console.log(`${req.method} => ${req.path}`);
+  if(req.body) {
+    console.log("------------------------------------------------------")
+    console.log(req.body);
+    console.log("------------------------------------------------------")
+  }
   next();
 })
 
