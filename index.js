@@ -4,6 +4,11 @@ const app = express();
 
 app.use(express.json());
 
+app.use((req, res, next) => {
+  console.log(`${req.method} => ${req.path}`);
+  next();
+})
+
 app.get("/", (req, res) => {
   res.status(200).json({
     status: "app is working",
@@ -12,9 +17,14 @@ app.get("/", (req, res) => {
 
 app.post("/", (req, res) => {
   const body = req.body;
+  const queries = req.query;
+  
+  if(queries.validationToken) {
+    return res.status(200).send(queries.validationToken);
+  }
 
   res.status(200).json({
-    ...(body ? body : { body: "no body received" }),
+    ...(body ? { body, queries } : { body: "no body received" }),
   });
 });
 
