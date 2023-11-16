@@ -20,6 +20,7 @@ app.post("/", (req, res) => {
   const queries = req.query;
   
   if(queries.validationToken) {
+    res.type('text/plain')
     return res.status(200).send(queries.validationToken);
   }
 
