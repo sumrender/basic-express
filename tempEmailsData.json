@@ -1,0 +1,351 @@
+
+  [
+    {
+      "_id": "65606ee124d92a2d0cdfdc0c",
+      "@odata": {
+        "context": "https://graph.microsoft.com/v1.0/$metadata#users('sumrenders%40outlook.com')/messages/$entity",
+        "etag": "W/\"CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG4c\""
+      },
+      "createdDateTime": "2023-11-24T09:36:19Z",
+      "lastModifiedDateTime": "2023-11-24T09:36:21Z",
+      "changeKey": "CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG4c",
+      "categories": [],
+      "receivedDateTime": "2023-11-24T09:36:20Z",
+      "sentDateTime": "2023-11-24T09:36:19Z",
+      "hasAttachments": false,
+      "internetMessageId": "<SEYPR04MB75742DCD0D597EC8281235F4CEB8A@SEYPR04MB7574.apcprd04.prod.outlook.com>",
+      "subject": "yo [TicketId #a] hello",
+      "bodyPreview": "og 1",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAuAAADMPIQUL48oUCnKH7dk9LAFQEAZJBUYp8NgUOy2TKB5iXUZAAAAgEJAAAA",
+      "conversationId": "AQQkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAQAJSOLIdkDK1AnL7T5w_ALUM=",
+      "conversationIndex": "AQHaHrmtlI4sh2QMrUCcvtPnD4AtQw==",
+      "isDeliveryReceiptRequested": false,
+      "isReadReceiptRequested": false,
+      "isRead": true,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgBGAAADMPIQUL48oUCnKH7dk9LAFQcAZJBUYp8NgUOy2TKB5iXUZAAAAgEJAAAAZJBUYp8NgUOy2TKB5iXUZAAC2O1FYgAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 1</div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrenders@outlook.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrenders@outlook.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sumrender Singh",
+            "address": "sumrender.singh@codinova.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "65606f2024d92a2d0cdfdc0e",
+      "@odata": {
+        "context": "https://graph.microsoft.com/v1.0/$metadata#users('sumrenders%40outlook.com')/messages/$entity",
+        "etag": "W/\"CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG4j\""
+      },
+      "createdDateTime": "2023-11-24T09:38:37Z",
+      "lastModifiedDateTime": "2023-11-24T09:38:38Z",
+      "changeKey": "CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG4j",
+      "categories": [],
+      "receivedDateTime": "2023-11-24T09:38:37Z",
+      "sentDateTime": "2023-11-24T09:38:23Z",
+      "hasAttachments": false,
+      "internetMessageId": "<CABs7Px5nf+1c913tU0HeBzY45rpeNYP3C4v5ODmxojpm-OYSYA@mail.gmail.com>",
+      "subject": "Re: yo [TicketId #a] hello",
+      "bodyPreview": "go 1\r\n\r\nOn Fri, 24 Nov 2023 at 15:06, Sumrender Singh <sumrenders@outlook.com> wrote:\r\nog 1",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAuAAADMPIQUL48oUCnKH7dk9LAFQEAZJBUYp8NgUOy2TKB5iXUZAAAAgEMAAAA",
+      "conversationId": "AQQkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAQAJSOLIdkDK1AnL7T5w_ALUM=",
+      "conversationIndex": "AQHaHrmtlI4sh2QMrUCcvtPnD4AtQ7CJNnuA",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgBGAAADMPIQUL48oUCnKH7dk9LAFQcAZJBUYp8NgUOy2TKB5iXUZAAAAgEMAAAAZJBUYp8NgUOy2TKB5iXUZAAC2O0xuwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\">go 1</div><br><div class=\"gmail_quote\"><div dir=\"ltr\" class=\"gmail_attr\">On Fri, 24 Nov 2023 at 15:06, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div class=\"msg-3190094070430510815\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 1</div></div></div></blockquote></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrender.singh@codinova.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrender.singh@codinova.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sumrender Singh",
+            "address": "sumrenders@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "65606f6c24d92a2d0cdfdc10",
+      "@odata": {
+        "context": "https://graph.microsoft.com/v1.0/$metadata#users('sumrenders%40outlook.com')/messages/$entity",
+        "etag": "W/\"CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG5I\""
+      },
+      "createdDateTime": "2023-11-24T09:39:43Z",
+      "lastModifiedDateTime": "2023-11-24T09:39:54Z",
+      "changeKey": "CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG5I",
+      "categories": [],
+      "receivedDateTime": "2023-11-24T09:39:53Z",
+      "sentDateTime": "2023-11-24T09:39:52Z",
+      "hasAttachments": false,
+      "internetMessageId": "<SEYPR04MB7574B4E91C414D5B86CDDF4ECEB8A@SEYPR04MB7574.apcprd04.prod.outlook.com>",
+      "subject": "Re: yo [TicketId #a] hello",
+      "bodyPreview": "og 2\r\n________________________________\r\nFrom: Sumrender Singh <sumrender.singh@codinova.com>\r\nSent: Friday, November 24, 2023 3:08 PM\r\nTo: Sumrender Singh <sumrenders@outlook.com>\r\nSubject: Re: yo [TicketId #a] hello\r\n\r\ngo 1\r\n\r\nOn Fri, 24 Nov 2023 at 15:0",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAuAAADMPIQUL48oUCnKH7dk9LAFQEAZJBUYp8NgUOy2TKB5iXUZAAAAgEJAAAA",
+      "conversationId": "AQQkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAQAJSOLIdkDK1AnL7T5w_ALUM=",
+      "conversationIndex": "AQHaHrmtlI4sh2QMrUCcvtPnD4AtQ7CJNnuAgAAAYCo=",
+      "isDeliveryReceiptRequested": false,
+      "isReadReceiptRequested": false,
+      "isRead": true,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgBGAAADMPIQUL48oUCnKH7dk9LAFQcAZJBUYp8NgUOy2TKB5iXUZAAAAgEJAAAAZJBUYp8NgUOy2TKB5iXUZAAC2O1FYwAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 2</div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Sumrender Singh &lt;sumrender.singh@codinova.com&gt;<br><b>Sent:</b> Friday, November 24, 2023 3:08 PM<br><b>To:</b> Sumrender Singh &lt;sumrenders@outlook.com&gt;<br><b>Subject:</b> Re: yo [TicketId #a] hello</font> <div>&nbsp;</div></div><div><div dir=\"ltr\">go 1</div><br><div class=\"x_gmail_quote\"><div dir=\"ltr\" class=\"x_gmail_attr\">On Fri, 24 Nov 2023 at 15:06, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote class=\"x_gmail_quote\" style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div class=\"x_msg-3190094070430510815\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 1</div></div></div></blockquote></div></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrenders@outlook.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrenders@outlook.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sumrender Singh",
+            "address": "sumrender.singh@codinova.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "65606faf24d92a2d0cdfdc12",
+      "@odata": {
+        "context": "https://graph.microsoft.com/v1.0/$metadata#users('sumrenders%40outlook.com')/messages/$entity",
+        "etag": "W/\"CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG5W\""
+      },
+      "createdDateTime": "2023-11-24T09:40:59Z",
+      "lastModifiedDateTime": "2023-11-24T09:41:01Z",
+      "changeKey": "CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG5W",
+      "categories": [],
+      "receivedDateTime": "2023-11-24T09:41:00Z",
+      "sentDateTime": "2023-11-24T09:40:46Z",
+      "hasAttachments": false,
+      "internetMessageId": "<CABs7Px519zcQOmf83tnH4uH1qwyV0=NQa0X8Zf1TBAiCu8xs8g@mail.gmail.com>",
+      "subject": "Re: yo [TicketId #a] hello",
+      "bodyPreview": "go 2\r\n\r\nOn Fri, 24 Nov 2023 at 15:09, Sumrender Singh <sumrenders@outlook.com> wrote:\r\nog 2\r\n________________________________\r\nFrom: Sumrender Singh <sumrender.singh@codinova.com>\r\nSent: Friday, November 24, 2023 3:08 PM\r\nTo: Sumrender Singh <sumrenders@o",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAuAAADMPIQUL48oUCnKH7dk9LAFQEAZJBUYp8NgUOy2TKB5iXUZAAAAgEMAAAA",
+      "conversationId": "AQQkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAQAJSOLIdkDK1AnL7T5w_ALUM=",
+      "conversationIndex": "AQHaHrmtlI4sh2QMrUCcvtPnD4AtQ7CJNnuAgAAAYCqAAABKAA==",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgBGAAADMPIQUL48oUCnKH7dk9LAFQcAZJBUYp8NgUOy2TKB5iXUZAAAAgEMAAAAZJBUYp8NgUOy2TKB5iXUZAAC2O0xvAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\">go 2</div><br><div class=\"gmail_quote\"><div dir=\"ltr\" class=\"gmail_attr\">On Fri, 24 Nov 2023 at 15:09, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div class=\"msg-5945925921452735296\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 2</div><div id=\"m_-5945925921452735296appendonsend\"></div><hr style=\"display:inline-block; width:98%\"><div id=\"m_-5945925921452735296divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Sumrender Singh &lt;<a href=\"mailto:sumrender.singh@codinova.com\" target=\"_blank\">sumrender.singh@codinova.com</a>&gt;<br><b>Sent:</b> Friday, November 24, 2023 3:08 PM<br><b>To:</b> Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt;<br><b>Subject:</b> Re: yo [TicketId #a] hello</font> <div>&nbsp;</div></div><div><div dir=\"ltr\">go 1</div><br><div><div dir=\"ltr\">On Fri, 24 Nov 2023 at 15:06, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 1</div></div></div></blockquote></div></div></div></div></blockquote></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrender.singh@codinova.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrender.singh@codinova.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sumrender Singh",
+            "address": "sumrenders@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "65606fe424d92a2d0cdfdc14",
+      "@odata": {
+        "context": "https://graph.microsoft.com/v1.0/$metadata#users('sumrenders%40outlook.com')/messages/$entity",
+        "etag": "W/\"CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG6U\""
+      },
+      "createdDateTime": "2023-11-24T09:41:44Z",
+      "lastModifiedDateTime": "2023-11-24T09:41:53Z",
+      "changeKey": "CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG6U",
+      "categories": [],
+      "receivedDateTime": "2023-11-24T09:41:53Z",
+      "sentDateTime": "2023-11-24T09:41:52Z",
+      "hasAttachments": false,
+      "internetMessageId": "<SEYPR04MB7574D3FA293BC533C0E49EEDCEB8A@SEYPR04MB7574.apcprd04.prod.outlook.com>",
+      "subject": "Re: yo [TicketId #a] hello",
+      "bodyPreview": "og 3\r\n________________________________\r\nFrom: Sumrender Singh <sumrender.singh@codinova.com>\r\nSent: Friday, November 24, 2023 3:10 PM\r\nTo: Sumrender Singh <sumrenders@outlook.com>\r\nSubject: Re: yo [TicketId #a] hello\r\n\r\ngo 2\r\n\r\nOn Fri, 24 Nov 2023 at 15:0",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAuAAADMPIQUL48oUCnKH7dk9LAFQEAZJBUYp8NgUOy2TKB5iXUZAAAAgEJAAAA",
+      "conversationId": "AQQkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAQAJSOLIdkDK1AnL7T5w_ALUM=",
+      "conversationIndex": "AQHaHrmtlI4sh2QMrUCcvtPnD4AtQ7CJNnuAgAAAYCqAAABKAIAAAEfa",
+      "isDeliveryReceiptRequested": false,
+      "isReadReceiptRequested": false,
+      "isRead": true,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgBGAAADMPIQUL48oUCnKH7dk9LAFQcAZJBUYp8NgUOy2TKB5iXUZAAAAgEJAAAAZJBUYp8NgUOy2TKB5iXUZAAC2O1FZAAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><style type=\"text/css\" style=\"display:none\">\r\n<!--\r\np\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style></head><body dir=\"ltr\"><div class=\"elementToProof\" style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 3</div><div id=\"appendonsend\"></div><hr tabindex=\"-1\" style=\"display:inline-block; width:98%\"><div id=\"divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Sumrender Singh &lt;sumrender.singh@codinova.com&gt;<br><b>Sent:</b> Friday, November 24, 2023 3:10 PM<br><b>To:</b> Sumrender Singh &lt;sumrenders@outlook.com&gt;<br><b>Subject:</b> Re: yo [TicketId #a] hello</font> <div>&nbsp;</div></div><div><div dir=\"ltr\">go 2</div><br><div class=\"x_gmail_quote\"><div dir=\"ltr\" class=\"x_gmail_attr\">On Fri, 24 Nov 2023 at 15:09, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote class=\"x_gmail_quote\" style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div class=\"x_msg-5945925921452735296\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 2</div><div id=\"x_m_-5945925921452735296appendonsend\"></div><hr style=\"display:inline-block; width:98%\"><div id=\"x_m_-5945925921452735296divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Sumrender Singh &lt;<a href=\"mailto:sumrender.singh@codinova.com\" target=\"_blank\">sumrender.singh@codinova.com</a>&gt;<br><b>Sent:</b> Friday, November 24, 2023 3:08 PM<br><b>To:</b> Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt;<br><b>Subject:</b> Re: yo [TicketId #a] hello</font> <div>&nbsp;</div></div><div><div dir=\"ltr\">go 1</div><br><div><div dir=\"ltr\">On Fri, 24 Nov 2023 at 15:06, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 1</div></div></div></blockquote></div></div></div></div></blockquote></div></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrenders@outlook.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrenders@outlook.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sumrender Singh",
+            "address": "sumrender.singh@codinova.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6560701624d92a2d0cdfdc16",
+      "@odata": {
+        "context": "https://graph.microsoft.com/v1.0/$metadata#users('sumrenders%40outlook.com')/messages/$entity",
+        "etag": "W/\"CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG6m\""
+      },
+      "createdDateTime": "2023-11-24T09:42:42Z",
+      "lastModifiedDateTime": "2023-11-24T09:42:43Z",
+      "changeKey": "CQAAABYAAABkkFRinw2BQ7LZMoHmJdRkAALZFG6m",
+      "categories": [],
+      "receivedDateTime": "2023-11-24T09:42:42Z",
+      "sentDateTime": "2023-11-24T09:42:25Z",
+      "hasAttachments": false,
+      "internetMessageId": "<CABs7Px6EeXuyFN8KX6HQadwQdkJ2HehomR6y0jrAn5pKiDs+YA@mail.gmail.com>",
+      "subject": "Re: yo [TicketId #a] hello",
+      "bodyPreview": "go 3\r\n\r\nOn Fri, 24 Nov 2023 at 15:11, Sumrender Singh <sumrenders@outlook.com> wrote:\r\nog 3\r\n________________________________\r\nFrom: Sumrender Singh <sumrender.singh@codinova.com>\r\nSent: Friday, November 24, 2023 3:10 PM\r\nTo: Sumrender Singh <sumrenders@o",
+      "importance": "normal",
+      "parentFolderId": "AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAuAAADMPIQUL48oUCnKH7dk9LAFQEAZJBUYp8NgUOy2TKB5iXUZAAAAgEMAAAA",
+      "conversationId": "AQQkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgAQAJSOLIdkDK1AnL7T5w_ALUM=",
+      "conversationIndex": "AQHaHrmtlI4sh2QMrUCcvtPnD4AtQ7CJNnuAgAAAYCqAAABKAIAAAEfagAAAMIA=",
+      "isDeliveryReceiptRequested": null,
+      "isReadReceiptRequested": false,
+      "isRead": false,
+      "isDraft": false,
+      "webLink": "https://outlook.live.com/owa/?ItemID=AQMkADAwATNiZmYAZC0zNGI3LWY3MzEtMDACLTAwCgBGAAADMPIQUL48oUCnKH7dk9LAFQcAZJBUYp8NgUOy2TKB5iXUZAAAAgEMAAAAZJBUYp8NgUOy2TKB5iXUZAAC2O0xvQAAAA%3D%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "inferenceClassification": "focused",
+      "body": {
+        "contentType": "html",
+        "content": "<html><head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"></head><body><div dir=\"ltr\">go 3</div><br><div class=\"gmail_quote\"><div dir=\"ltr\" class=\"gmail_attr\">On Fri, 24 Nov 2023 at 15:11, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote class=\"gmail_quote\" style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div class=\"msg2436327504122481633\"><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 3</div><div id=\"m_2436327504122481633appendonsend\"></div><hr style=\"display:inline-block; width:98%\"><div id=\"m_2436327504122481633divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Sumrender Singh &lt;<a href=\"mailto:sumrender.singh@codinova.com\" target=\"_blank\">sumrender.singh@codinova.com</a>&gt;<br><b>Sent:</b> Friday, November 24, 2023 3:10 PM<br><b>To:</b> Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt;<br><b>Subject:</b> Re: yo [TicketId #a] hello</font> <div>&nbsp;</div></div><div><div dir=\"ltr\">go 2</div><br><div><div dir=\"ltr\">On Fri, 24 Nov 2023 at 15:09, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 2</div><div id=\"m_2436327504122481633x_m_-5945925921452735296appendonsend\"></div><hr style=\"display:inline-block; width:98%\"><div id=\"m_2436327504122481633x_m_-5945925921452735296divRplyFwdMsg\" dir=\"ltr\"><font face=\"Calibri, sans-serif\" color=\"#000000\" style=\"font-size:11pt\"><b>From:</b> Sumrender Singh &lt;<a href=\"mailto:sumrender.singh@codinova.com\" target=\"_blank\">sumrender.singh@codinova.com</a>&gt;<br><b>Sent:</b> Friday, November 24, 2023 3:08 PM<br><b>To:</b> Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt;<br><b>Subject:</b> Re: yo [TicketId #a] hello</font> <div>&nbsp;</div></div><div><div dir=\"ltr\">go 1</div><br><div><div dir=\"ltr\">On Fri, 24 Nov 2023 at 15:06, Sumrender Singh &lt;<a href=\"mailto:sumrenders@outlook.com\" target=\"_blank\">sumrenders@outlook.com</a>&gt; wrote:<br></div><blockquote style=\"margin:0px 0px 0px 0.8ex; border-left:1px solid rgb(204,204,204); padding-left:1ex\"><div><div dir=\"ltr\"><div style=\"font-family:Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">og 1</div></div></div></blockquote></div></div></div></div></blockquote></div></div></div></div></blockquote></div></body></html>"
+      },
+      "sender": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrender.singh@codinova.com"
+        }
+      },
+      "from": {
+        "emailAddress": {
+          "name": "Sumrender Singh",
+          "address": "sumrender.singh@codinova.com"
+        }
+      },
+      "toRecipients": [
+        {
+          "emailAddress": {
+            "name": "Sumrender Singh",
+            "address": "sumrenders@outlook.com"
+          }
+        }
+      ],
+      "ccRecipients": [],
+      "bccRecipients": [],
+      "replyTo": [],
+      "flag": {
+        "flagStatus": "notFlagged"
+      },
+      "__v": 0
+    }
+  ]
